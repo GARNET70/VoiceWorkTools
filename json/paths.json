@@ -1,0 +1,29 @@
+{
+    "esc": {
+        "path": "D:\\work\\voice\\00_esc\\"
+    },
+    "comp":{
+        "path": "D:\\work\\voice\\02_OK\\"
+    },
+    "rar": {
+        "path": "D:\\work\\voice\\03_rar\\"
+    },
+    "rename": {
+        "path": "D:\\work\\voice\\04_rename\\"
+    },
+    "work":{
+        "path": "D:\\work\\voice\\05_work\\"
+    },
+    "uncomp": {
+        "path": "D:\\work\\voice\\06_uncomp\\"
+    },
+    "addfiles": {
+        "path": "D:\\work\\voice\\07_addfiles\\"
+    },
+    "test": {
+        "path": "D:\\work\\voice\\test\\"
+    },
+    "MediaGo" : {
+        "path" : "D:\\MediaGo\\"
+    }
+}
